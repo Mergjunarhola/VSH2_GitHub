@@ -1,4 +1,4 @@
-1. Hvað gera eftirfarandi Linux skipanir?
+﻿1. Hvað gera eftirfarandi Linux skipanir?
 	cd
 	cd ~
 	ls
